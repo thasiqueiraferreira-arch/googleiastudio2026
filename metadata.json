@@ -1,0 +1,5 @@
+{
+  "name": "Sopa Premium",
+  "description": "Aplicativo de delivery premium para sopas, açaí e massas.",
+  "requestFramePermissions": ["geolocation"]
+}
